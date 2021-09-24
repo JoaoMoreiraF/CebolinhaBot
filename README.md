@@ -13,6 +13,6 @@ This simple bot responds and transcribes a message to how Cebolinha (Jimmy Five)
 
  1. Create a twitter account and create a  [Twitter app](https://apps.twitter.com/)
  2. Clone the git
- 3. make `.env` file and copy `.env.example` and add the relevant keys from twitter app. Twitter userIDs can be obtain from 3rd party site
+ 3. make `.env` file and copy `.env.example` and add the relevant keys from twitter app.
  4. run `npm install` 
  5. run `npm start`
